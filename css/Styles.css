@@ -1,0 +1,23 @@
+/*color set labels*/
+color_change_coral {color: coral}
+color_change_darkcyan {color: darkcyan}
+color_change_switch {color: white; background: black}
+color_change_blueviolet {color: blueviolet}
+color_change_cornflowerblue {color: cornflowerblue}
+color_change_darkslategrey {color: darkslategrey}
+color_change_darkred {color: darkred}
+color_change_darkslateblue {color: darkslateblue}
+color_change_dodgerblue {color: dodgerblue}
+color_change_chocolate {color: chocolate}
+color_change_goldenred {color: goldenrod}
+color_change_forestgreen {color: forestgreen}
+color_change_aqua {color: aqua}
+color_change_crimson {color: crimson}
+color_change_deeppink {color: deeppink}
+color_change_indianred {color: indianred}
+color_change_reserved {}
+
+.bold {font-weight: bolder;}
+.italic {font-style: italic;}
+
+div {text-indent: 32px; line-height: 32px}
