@@ -20,4 +20,11 @@ color_change_reserved {}
 .bold {font-weight: bolder;}
 .italic {font-style: italic;}
 
+/* table, th, td {border: 1px solid black} */
+table {border: 1px solid black; border-collapse: collapse}
+th {border: 1px solid black;}
+td {border: 1px solid black;}
+table th {background-color: #888888}
+/* which is equal to table.th */
+
 div {text-indent: 32px; line-height: 32px}
